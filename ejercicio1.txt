@@ -1,1 +1,2 @@
 Estoy agragando texto para practicar un poco esto de Git que no entiendo un pepino
+Linea 2: esto de los pepinos se viene complejizando
